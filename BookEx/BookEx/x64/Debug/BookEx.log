@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\mysoloproject\iocp\test\testiocp\bookex\bookex\main.cpp(140): warning C4311: '형식 캐스팅': 'SOCKETINFO *'에서 'DWORD'(으)로 포인터가 잘립니다.
+e:\mysoloproject\iocp\test\testiocp\bookex\bookex\main.cpp(140): warning C4302: '형식 캐스팅': 'SOCKETINFO *'에서 'DWORD'(으)로 잘립니다.
+  BookEx.vcxproj -> E:\MySoloProject\IOCP\Test\TestIOCP\BookEx\x64\Debug\BookEx.exe
+  BookEx.vcxproj -> E:\MySoloProject\IOCP\Test\TestIOCP\BookEx\x64\Debug\BookEx.pdb (Full PDB)
